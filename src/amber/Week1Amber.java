@@ -1,6 +1,6 @@
 package amber;
 
-public class Task1 {
+public class Week1Amber {
     // Made a new class
     // added another line
 }
