@@ -1,6 +1,6 @@
 package EthemG;
 
-public class divisibleBy {
+public class DivisibleBy {
     public static void main(String[] args) {
         String sum15= "";
         String sum5= "";
